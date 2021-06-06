@@ -24,3 +24,13 @@ Repository for minor Bioinformatics
 ### ENCFF736SSJ
 
 ![ENCFF736SSJ](images/filter_peaks.H3K27me3_C2C12.ENCFF736SSJ.mm10.filtered.hist.png)
+
+## Рассмотрим расположение пиков гистоновой метки относительно аннотированных генов
+
+### ENCFF110HRW
+
+![ENCFF110HRW](images/chip_seeker.H3K27me3_C2C12.ENCFF110HRW.mm10.plotAnnoPie.png)
+
+### ENCFF736SSJ
+
+![ENCFF736SSJ](images/chip_seeker.H3K27me3_C2C12.ENCFF736SSJ.mm10.plotAnnoPie.png)

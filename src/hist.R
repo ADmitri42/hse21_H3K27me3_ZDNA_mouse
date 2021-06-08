@@ -9,6 +9,7 @@ DATA_DIR <- 'data/'
 OUT_DIR <- 'images/'
 
 NAMES <- list('H3K27me3_C2C12.ENCFF736SSJ.mm10', 'H3K27me3_C2C12.ENCFF110HRW.mm10')
+#NAMES <- list("mouseZ-DNA1")
 
 for (NAME in NAMES){
   bed_df <- read.delim(paste0(DATA_DIR, NAME, '.bed'), as.is = TRUE, header = FALSE)

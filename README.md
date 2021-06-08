@@ -34,3 +34,10 @@ Repository for minor Bioinformatics
 ### ENCFF736SSJ
 
 ![ENCFF736SSJ](images/chip_seeker.H3K27me3_C2C12.ENCFF736SSJ.mm10.plotAnnoPie.png)
+
+## Визуалтзирование
+
+Вставить фото
+
+# Анализ участков вторичной стр-ры ДНК
+

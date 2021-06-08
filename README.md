@@ -48,11 +48,11 @@ cat  data/*.filtered.bed  |   sort -k1,1 -k2,2n   |   bedtools merge   >  data/H
 
 ### Распределение длин участков вторичной стр-ры ДНК
 
-![second](images/len_hist.mouseZ-DNA1.png)
+![second](images/len_hist.mouseZ-DNA2.png)
 
 ### Расположение участков структуры ДНК относительно аннотированных генов
 
-![ChIPSeek](images/chip_seeker.mouseZ-DNA1.plotAnnoPie.png)
+![ChIPSeek](images/chip_seeker.mouseZ-DNA2.plotAnnoPie.png)
 
 ## Анализ пересечений гистоновой метки и стр-ры ДНК
 

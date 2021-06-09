@@ -66,7 +66,7 @@ bedtools intersect  -a data/DNA/mouseZ-DNA1.bed -b  data/H3K27me3_C2C12.merge.mm
 ### Сессия в геномном браузере
 
 ```
-_ 1623181697745
+_ 1623184341526
 addTracksButton add custom tracks
 clade mammal
 ct_DeepZ_9212_imgOrd 4
@@ -74,7 +74,7 @@ ct_ENCFF110HRW_3035_imgOrd 1
 ct_ENCFF736SSJ_5823_imgOrd 2
 ct_Intersection_4191_imgOrd 5
 ct_Merged_3482_imgOrd 3
-ctfile_mm10 ../trash/ct/ct_genome_22dc4_fc8e00.bed
+ctfile_mm10 ../trash/ct/ct_genome_13747_fd3920.bed
 db mm10
 encodeCcreCombined_imgOrd 10
 expOrder_cons60way phyloP60wayPlacental 
@@ -90,18 +90,18 @@ intronEst_imgOrd 8
 knownGene hide
 knownGene.label.gene 1
 knownGene_imgOrd 6
-lastPosition chr1:3668557-3675116
+lastPosition chr1:3670917-3671739
 lastVirtModeExtra 
 lastVirtModeExtraState 
 lastVirtModeType default
 multiz60way_imgOrd 12
 ncbiRefSeqCurated_imgOrd 7
-oldPosition chr1:3668215-3674774
+oldPosition chr1:132130838-132132106
 org Mouse
 phyloP60wayPlacental_imgOrd 11
 pix 1420
-position chr1:3668215-3674774
-position.mm10 lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr1%3A3668215%2D3674774
+position chr1:132130838-132132106
+position.mm10 lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr1%3A132130838%2D132132106
 rmsk_imgOrd 14
 simOrder_cons60way phyloP60wayPlacental 
 snp142Common_imgOrd 13

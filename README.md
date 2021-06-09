@@ -134,3 +134,12 @@ encode3RenAtac full
 defaultsSet on
 ```
 ![EncodeSession](images/encode_session.png)
+
+### Ассоциируем полученные пересечения с ближайшими генами
+
+Запустив код для ассоциации генов у меня получилось 3 уникальных гена:
+`
+Fndc3a
+Fosl2
+Actb
+`

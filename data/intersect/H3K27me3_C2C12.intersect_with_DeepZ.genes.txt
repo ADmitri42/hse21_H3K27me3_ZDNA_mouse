@@ -1,0 +1,4 @@
+seqnames	start	end	width	strand	score	blockCount	thick.start	thick.end	thick.width	itemRgb	peak	feature	feature.ranges.start	feature.ranges.end	feature.ranges.width	feature.strand	distance	insideFeature	distanceToSite	symbol
+chr14	72710345	72710450	106	*	15	21	3	4	2	NA	curax_14h_Z22_vs_IgG__FLAG.macs2_peak_396	319448	72537946	72710003	172058	-	341	upstream	341	Fndc3a
+chr5	32136041	32136453	413	*	101	1059	6	14	9	NA	curax_14h_Z22_vs_IgG__FLAG.macs2_peak_967	14284	32135801	32157842	22042	+	0	inside	239	Fosl2
+chr5	142905537	142906608	1072	*	135	414	6	17	12	NA	curax_14h_Z22_vs_IgG__FLAG.macs2_peak_1040	11461	142903115	142906754	3640	-	0	inside	145	Actb

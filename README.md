@@ -64,7 +64,7 @@ bedtools intersect  -a data/DNA/mouseZ-DNA1.bed -b  data/H3K27me3_C2C12.merge.mm
 ![Peeks](images/len_hist.H3K27me3_C2C12.intersect_with_DeepZ.png)
 
 ### Сессия в геномном браузере
-
+[Ссылка](http://genome.ucsc.edu/s/ADmitri/hse21_H3K27me3_ZDNA_mouse)
 ```
 _ 1623184341526
 addTracksButton add custom tracks

@@ -8,11 +8,11 @@ library(tibble)  # column_to_rownames
 
 ###
 
-DATA_DIR <- 'data/'
+DATA_DIR <- 'data/DNA/'
 OUT_DIR <- 'images/'
 
-NAMES <- list('H3K27me3_C2C12.ENCFF736SSJ.mm10', 'H3K27me3_C2C12.ENCFF110HRW.mm10')
-#NAMES <- list("mouseZ-DNA1")
+#NAMES <- list('H3K27me3_C2C12.ENCFF736SSJ.mm10', 'H3K27me3_C2C12.ENCFF110HRW.mm10')
+NAMES <- list("mouseZ-DNA2")
 
 txdb <- TxDb.Mmusculus.UCSC.mm10.knownGene
 
